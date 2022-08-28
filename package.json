@@ -1,0 +1,19 @@
+{
+    "author": "jsestro",
+    "name": "get-time-util",
+    "version": "1.0.0",
+    "description": "help you to get date",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "test",
+        "onpoint"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/pythonnoobyeti/get-time-util.git",
+    "dependencies": {
+        "yargs": "^17.1.0"
+    }
+}
